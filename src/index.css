@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+}
